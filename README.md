@@ -1,1 +1,2 @@
-# DL-LAB-3
+# DL_LAB3
+Deep Learning LAB 3
